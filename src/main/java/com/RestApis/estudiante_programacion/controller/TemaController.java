@@ -1,6 +1,6 @@
-package com.todocodeacademy.estudiante_programacion.controller;
-import com.todocodeacademy.estudiante_programacion.model.Tema;
-import com.todocodeacademy.estudiante_programacion.service.ITemaService;
+package com.RestApis.estudiante_programacion.controller;
+import com.RestApis.estudiante_programacion.model.Tema;
+import com.RestApis.estudiante_programacion.service.ITemaService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.PutMapping;

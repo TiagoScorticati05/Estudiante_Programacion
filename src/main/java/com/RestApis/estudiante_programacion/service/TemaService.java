@@ -1,7 +1,7 @@
-package com.todocodeacademy.estudiante_programacion.service;
+package com.RestApis.estudiante_programacion.service;
 
-import com.todocodeacademy.estudiante_programacion.model.Tema;
-import com.todocodeacademy.estudiante_programacion.repository.ITemaRepository;
+import com.RestApis.estudiante_programacion.model.Tema;
+import com.RestApis.estudiante_programacion.repository.ITemaRepository;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

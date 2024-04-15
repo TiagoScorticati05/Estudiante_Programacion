@@ -1,4 +1,4 @@
-package com.todocodeacademy.estudiante_programacion.model;
+package com.RestApis.estudiante_programacion.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import javax.persistence.Entity;

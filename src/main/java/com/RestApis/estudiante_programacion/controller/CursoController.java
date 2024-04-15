@@ -1,8 +1,8 @@
-package com.todocodeacademy.estudiante_programacion.controller;
+package com.RestApis.estudiante_programacion.controller;
 
-import com.todocodeacademy.estudiante_programacion.dto.CursoTemaDTO;
-import com.todocodeacademy.estudiante_programacion.model.Curso;
-import com.todocodeacademy.estudiante_programacion.service.ICursoService;
+import com.RestApis.estudiante_programacion.dto.CursoTemaDTO;
+import com.RestApis.estudiante_programacion.model.Curso;
+import com.RestApis.estudiante_programacion.service.ICursoService;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

@@ -1,4 +1,4 @@
-package com.todocodeacademy.estudiante_programacion;
+package com.RestApis.estudiante_programacion;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,6 +1,6 @@
-package com.todocodeacademy.estudiante_programacion.dto;
+package com.RestApis.estudiante_programacion.dto;
 
-import com.todocodeacademy.estudiante_programacion.model.Tema;
+import com.RestApis.estudiante_programacion.model.Tema;
 import java.util.List;
 import lombok.Getter;
 import lombok.Setter;

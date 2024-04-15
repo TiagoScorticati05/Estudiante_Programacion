@@ -1,5 +1,5 @@
-package com.todocodeacademy.estudiante_programacion.service;
-import com.todocodeacademy.estudiante_programacion.model.Tema;
+package com.RestApis.estudiante_programacion.service;
+import com.RestApis.estudiante_programacion.model.Tema;
 import java.util.List;
 
 public interface ITemaService {

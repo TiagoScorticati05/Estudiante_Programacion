@@ -1,8 +1,8 @@
-package com.todocodeacademy.estudiante_programacion.service;
+package com.RestApis.estudiante_programacion.service;
 
-import com.todocodeacademy.estudiante_programacion.dto.CursoTemaDTO;
-import com.todocodeacademy.estudiante_programacion.model.Curso;
-import com.todocodeacademy.estudiante_programacion.repository.ICursoRepository;
+import com.RestApis.estudiante_programacion.dto.CursoTemaDTO;
+import com.RestApis.estudiante_programacion.model.Curso;
+import com.RestApis.estudiante_programacion.repository.ICursoRepository;
 import java.util.ArrayList;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -8,13 +8,14 @@
 		<version>2.6.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.todocodeacademy</groupId>
+	<groupId>com.RestApis</groupId>
 	<artifactId>estudiante_programacion</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>estudiante_programacion</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>17</java.version>
+                                    <start-class>com.RestApis.estudiante_programacion.EstudianteProgramacionApplication</start-class>
 	</properties>
 	<dependencies>
 		<dependency>

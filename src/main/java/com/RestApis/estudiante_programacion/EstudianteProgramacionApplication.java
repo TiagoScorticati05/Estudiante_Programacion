@@ -1,4 +1,4 @@
-package com.todocodeacademy.estudiante_programacion;
+package com.RestApis.estudiante_programacion;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

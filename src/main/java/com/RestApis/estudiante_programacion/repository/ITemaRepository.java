@@ -1,7 +1,7 @@
 
-package com.todocodeacademy.estudiante_programacion.repository;
+package com.RestApis.estudiante_programacion.repository;
 
-import com.todocodeacademy.estudiante_programacion.model.Tema;
+import com.RestApis.estudiante_programacion.model.Tema;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
